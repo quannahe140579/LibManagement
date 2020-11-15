@@ -1,0 +1,47 @@
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+}
+
+label {
+  margin-top: 0px;
+}
+
+textarea {
+  padding: 11px;
+  margin-top: 26px;
+}
+
+.form-check-label {
+  margin-left: 20px;
+}
+
+#formCheck-1 {
+  padding-top: 3px;
+}
+
+button, input {
+  margin-top: 27px;
+  /*margin-left: -2px;*/
+  /*margin-bottom: 81px;*/
+}
+
+.form-check {
+  margin-left: 182px;
+  padding-top: 27px;
+}
+
+.clean-block.clean-cart .summary button {
+}
+
+.clean-block .block-heading h1, .clean-block .block-heading h2, .clean-block .block-heading h3 {
+  padding-left: initial;
+}
+
+.btn:not(:disabled):not(.disabled) {
+  /*margin-left: 65px;*/
+  /*margin-bottom: 29px;*/
+}
+
+.btn:not(:disabled):not(.disabled) {
+  margin-bottom: 32px;
+}
+
